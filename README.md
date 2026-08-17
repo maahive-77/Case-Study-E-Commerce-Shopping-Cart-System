@@ -124,7 +124,7 @@ If a user named Yash purchases a laptop and mouse, the system stores the informa
 ```text
 User
 ID: 101
-Name: Yash
+Name: Maahi
 
 Cart
     Laptop     ₹50000
