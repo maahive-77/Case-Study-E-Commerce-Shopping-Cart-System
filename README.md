@@ -12,4 +12,4 @@ Use wrapper classes for price handling.
 Apply control structures for discount calculation.
 Implement searching algorithm to find products.
 
-<img width="105" height="106" alt="image" src="https://github.com/user-attachments/assets/f3c10b69-efab-47c1-927c-aeeaeb1915d0" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/f3c10b69-efab-47c1-927c-aeeaeb1915d0" />
